@@ -11,8 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        - uses: athul/waka-readme@master
+          with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            TIME_RANGE: last_30_days
+            SHOW_TOTAL: true
+            SHOW_TIME: true
+            LANG_COUNT: 5
+            STOP_AT_OTHER: true
