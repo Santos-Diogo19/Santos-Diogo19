@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 44 mins
+Total Time: 7 hrs 5 mins
 
-CSS                   2 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   36.78 %
-Java                  1 hr 38 mins    ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-HTML                  1 hr 25 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-JavaScript            1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-Sublime Text Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+CSS                   2 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Java                  2 hrs           ███████░░░░░░░░░░░░░░░░░░   28.21 %
+HTML                  1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+JavaScript            1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Sublime Text Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
