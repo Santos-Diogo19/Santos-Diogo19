@@ -12,9 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 18 mins
+Total Time: 2 hrs 56 mins
 
-Java   3 hrs 18 mins   █████████████████████████   100.00 %
+Java   2 hrs 56 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
